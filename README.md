@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/hwanseok-dev/hwanseok-dev/main/wave.gif" width="30px">
 
 ### :star: I believe consistency makes genius
-[![hwanseok-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanseok-dev&show_icons=true&count_private=true&hide=stars,contribs)](https://github.com/hwanseok-dev)  
+[![hwanseok-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanseok-dev&show_icons=true&count_private=true&hide=contribs)](https://github.com/hwanseok-dev)  
 
 ### :chart_with_upwards_trend: So I post what I studied every day on my blog
 [![hwanseok-dev.github.io](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=hwanseok-dev.github.io)](https://hwanseok-dev.github.io/about/)
