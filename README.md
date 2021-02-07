@@ -7,7 +7,7 @@
 [![hwanseok-dev.github.io](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=hwanseok-dev.github.io)](https://hwanseok-dev.github.io/about/)
 
 ### :fire: I’m currently working on
-[![the-fast](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=the-fast)](https://github.com/hwanseok-dev/the-fast)[![the-insta-client](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=the-insta-client)](https://github.com/hwanseok-dev/the-insta-client)
+[![the-fast](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=the-fast)](https://github.com/hwanseok-dev/the-fast)  
 
 ### :seedling: I’m currently learning Django & React
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanseok-dev&exclude_repo=hwanseok-dev.github.io&layout=compact&custom_title=Most%20Used%20Languages%282021~%29)](https://github.com/anuraghazra/github-readme-stats)
