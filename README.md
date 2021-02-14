@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanseok-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Hi there <img src="https://raw.githubusercontent.com/hwanseok-dev/hwanseok-dev/main/wave.gif" width="30px">
 
 ### :star: I believe consistency makes genius
@@ -18,4 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niklasjang&exclude_repo=niklasjang.github.io&layout=compact&hide=cmake&custom_title=Most%20Used%20Languages%28~2020%29)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :thought_balloon: Problem Solving
-[![hwanseok-dev's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanseok_dev)](https://solved.ac/profile/hwanseok_dev)
+[![hwanseok-dev's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanseok_dev)](https://solved.ac/profile/hwanseok_dev)  
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanseok-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
