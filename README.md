@@ -7,9 +7,9 @@
 [![hwanseok-dev.github.io](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=hwanseok-dev.github.io)](https://hwanseok-dev.github.io/about/)
 
 ### :fire: I’m currently working on
-[![the-fast](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=the-fast)](https://github.com/hwanseok-dev/the-fast)  
+[![spring-is-powerful](https://github-readme-stats.vercel.app/api/pin/?username=hwanseok-dev&repo=spring-is-powerful)](https://github.com/hwanseok-dev/spring-is-powerful)  
 
-### :seedling: I’m currently learning Django & React
+### :seedling: I’m currently learning Java & Spring Framework
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwanseok-dev&exclude_repo=hwanseok-dev.github.io&layout=compact&custom_title=Most%20Used%20Languages%282021~%29)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :deciduous_tree: I have experience in socket programming(c++) & REST API(spring-boot)
