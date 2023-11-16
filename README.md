@@ -1,5 +1,5 @@
-안녕하세요! 와탭랩스에서 [로그 모니터링 솔루션](https://www.whatap.io/ko/log-monitoring/)을 만들고 있는 장환석입니다.  
-최근에는 `데이터 플랫폼`과 `검색 엔진`에 관심이 많습니다.
+안녕하세요! 와탭랩스에서 [로그 모니터링 솔루션](https://docs.whatap.io/log/log-search)을 만들고 있는 장환석입니다.  
+최근에는 [`데이터 플랫폼`](https://github.com/hwanseok-dev/data-platform)과 `검색 엔진` 개발에 관심이 많습니다.
 
 - Email : hwanseok.dev@gmail.com
 - LinkedIn : https://www.linkedin.com/in/hwanseok951226/
